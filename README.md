@@ -1,5 +1,5 @@
 # XenoTASTools
-A Tool for Xenoblade Chronicles 2 TAS Development
+Tool for Xenoblade Chronicles 2 TAS Development
 
 As of right now, this is just a savegame loader for easy file swapping and backups. To be used with Xenoblade 2's bf2savefile.sav
 
